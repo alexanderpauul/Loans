@@ -1,0 +1,62 @@
+﻿@model IEnumerable<Loan.Models.LoanConsultation>
+
+@{
+    ViewBag.Title = "Consultation";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Consultation</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ConsultationId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Registered)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Age)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Amount)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Months)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AmountFee)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IPClient)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ConsultationId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Registered)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Age)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Amount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Months)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AmountFee)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IPClient)
+            </td>
+        </tr>
+    }
+
+</table>
