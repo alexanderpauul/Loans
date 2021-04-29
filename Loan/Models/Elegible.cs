@@ -11,4 +11,4 @@ namespace Loan.Models
         public bool IsElegible { get; set; }
         public string Comment { get; set; }
     }
-}
+}  
