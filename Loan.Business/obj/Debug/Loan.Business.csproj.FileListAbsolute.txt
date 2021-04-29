@@ -1,0 +1,13 @@
+C:\Users\Alexander\Source\repos\Loans\Loan.Business\bin\Debug\Loan.Business.dll
+C:\Users\Alexander\Source\repos\Loans\Loan.Business\bin\Debug\Loan.Business.pdb
+C:\Users\Alexander\Source\repos\Loans\Loan.Business\bin\Debug\Loan.Data.dll
+C:\Users\Alexander\Source\repos\Loans\Loan.Business\bin\Debug\Loan.Entities.dll
+C:\Users\Alexander\Source\repos\Loans\Loan.Business\bin\Debug\Loan.Data.pdb
+C:\Users\Alexander\Source\repos\Loans\Loan.Business\bin\Debug\Loan.Entities.pdb
+C:\Users\Alexander\Source\repos\Loans\Loan.Business\obj\Debug\Loan.Business.csprojAssemblyReference.cache
+C:\Users\Alexander\Source\repos\Loans\Loan.Business\obj\Debug\Loan.Business.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Source\repos\Loans\Loan.Business\obj\Debug\Loan.Business.csproj.CopyComplete
+C:\Users\Alexander\Source\repos\Loans\Loan.Business\obj\Debug\Loan.Business.dll
+C:\Users\Alexander\Source\repos\Loans\Loan.Business\obj\Debug\Loan.Business.pdb
+C:\Users\Alexander\Documents\Projects\Loans\Loan.Business\obj\Debug\Loan.Business.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Projects\Loans\Loan.Business\obj\Debug\Loan.Business.dll

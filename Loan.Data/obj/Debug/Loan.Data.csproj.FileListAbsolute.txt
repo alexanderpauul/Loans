@@ -1,0 +1,16 @@
+C:\Users\Alexander\Source\repos\Loans\Loan.Data\bin\Debug\Loan.Data.dll
+C:\Users\Alexander\Source\repos\Loans\Loan.Data\bin\Debug\Loan.Data.pdb
+C:\Users\Alexander\Source\repos\Loans\Loan.Data\bin\Debug\Loan.Entities.dll
+C:\Users\Alexander\Source\repos\Loans\Loan.Data\bin\Debug\Loan.Entities.pdb
+C:\Users\Alexander\Source\repos\Loans\Loan.Data\obj\Debug\Loan.Data.csprojAssemblyReference.cache
+C:\Users\Alexander\Source\repos\Loans\Loan.Data\obj\Debug\Loan.Data.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Source\repos\Loans\Loan.Data\obj\Debug\Loan.Data.csproj.CopyComplete
+C:\Users\Alexander\Source\repos\Loans\Loan.Data\obj\Debug\Loan.Data.dll
+C:\Users\Alexander\Source\repos\Loans\Loan.Data\obj\Debug\Loan.Data.pdb
+C:\Users\Alexander\Documents\Projects\Loans\Loan.Data\bin\Debug\Loan.Data.dll
+C:\Users\Alexander\Documents\Projects\Loans\Loan.Data\bin\Debug\Loan.Data.pdb
+C:\Users\Alexander\Documents\Projects\Loans\Loan.Data\bin\Debug\Loan.Entities.dll
+C:\Users\Alexander\Documents\Projects\Loans\Loan.Data\bin\Debug\Loan.Entities.pdb
+C:\Users\Alexander\Documents\Projects\Loans\Loan.Data\obj\Debug\Loan.Data.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Projects\Loans\Loan.Data\obj\Debug\Loan.Data.dll
+C:\Users\Alexander\Documents\Projects\Loans\Loan.Data\obj\Debug\Loan.Data.pdb

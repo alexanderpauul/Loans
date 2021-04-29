@@ -1,0 +1,10 @@
+C:\Users\Alexander\Source\repos\Loans\Loan.Entities\bin\Debug\Loan.Entities.dll
+C:\Users\Alexander\Source\repos\Loans\Loan.Entities\bin\Debug\Loan.Entities.pdb
+C:\Users\Alexander\Source\repos\Loans\Loan.Entities\obj\Debug\Loan.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Source\repos\Loans\Loan.Entities\obj\Debug\Loan.Entities.dll
+C:\Users\Alexander\Source\repos\Loans\Loan.Entities\obj\Debug\Loan.Entities.pdb
+C:\Users\Alexander\Documents\Projects\Loans\Loan.Entities\bin\Debug\Loan.Entities.dll
+C:\Users\Alexander\Documents\Projects\Loans\Loan.Entities\bin\Debug\Loan.Entities.pdb
+C:\Users\Alexander\Documents\Projects\Loans\Loan.Entities\obj\Debug\Loan.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\Projects\Loans\Loan.Entities\obj\Debug\Loan.Entities.dll
+C:\Users\Alexander\Documents\Projects\Loans\Loan.Entities\obj\Debug\Loan.Entities.pdb
